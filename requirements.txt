@@ -1,0 +1,6 @@
+xlsxwriter
+xlrd
+openpyxl
+Appium-Python-Client
+pymysql
+Flask
